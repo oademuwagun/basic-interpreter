@@ -1,0 +1,5 @@
+C:10
+A:20
+B:15
+E:A+B+C
+display E

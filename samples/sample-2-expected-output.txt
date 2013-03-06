@@ -1,0 +1,12 @@
+Output
+-----------
+45
+
+Explanation
+------------
+C:10		#Assign 10 to C
+A:20		#Assign 20 to A
+B:15		#Assign 15 to B
+E:A+B+C		#Assign the sum of A,B,C to E
+display E	#display E
+

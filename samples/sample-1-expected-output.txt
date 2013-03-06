@@ -1,0 +1,9 @@
+Output
+------
+B
+
+Explanation
+--------------
+A:100		#Assigns 100 to A
+B:A/10		#Assign B/10 to A which is 100/10
+display B	#Print value of B
